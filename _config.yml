@@ -17,6 +17,7 @@ header:
 
 footer:
   show_powered_by: true
+  
   contact:
     - type: email
       name: Email
