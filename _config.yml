@@ -11,18 +11,18 @@ google_analytics: "UA-121636368-3"
 header:
   pages:
     - name: Home
-      slug: /
-    - name: Work
-    - name: Blog
+      slug: index.md
+    - name: blog.md
+    - name: whatever.md
 
 footer:
   show_powered_by: true
-  
+
   contact:
     - type: email
       name: Email
       value: yourmail@domain.com
-      
+
   follow:
     - type: github
       name: GitHub
