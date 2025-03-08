@@ -1,0 +1,17 @@
+@import "minima";  /* Load Minima's default styles */
+
+/* Customize site title */
+.site-title {
+    font-family: 'Arial', sans-serif; /* Change font */
+    font-size: 12px; /* Adjust size */
+    font-weight: normal; /* Make it bold */
+    color: #ff5733; /* Change color */
+    text-transform: uppercase; /* Optional: Make it uppercase */
+}
+
+/* Customize site subtitle */
+.site-description {
+    font-size: 18px;
+    font-style: italic;
+    color: #777;
+}
