@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently, I am a Doctoral candidate at the University of Heidelberg under Prof. Markus Oberthaler working in the field ultra cold gasses. One can find a link to my [Personnel KIP website][Kip-Personnel-Page] Institute information. For more inforation about the Oberthaler group the intereted reader can find all they desire at the [Oberthaler group website][Oberthaler-Page]. 
+Currently, I am a Doctoral candidate at the University of Heidelberg under Prof. Markus Oberthaler working in the field ultra cold gasses. One can find a link to my [Personnel KIP website][Kip-Personnel-Page] Institute information. One can find more inforation about the Oberthaler group here [Oberthaler group website][Oberthaler-Page]. 
 
 
 
