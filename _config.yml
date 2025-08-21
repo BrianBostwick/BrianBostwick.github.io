@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brian Bostwick
+title: Brian L. Bostwick
 subtitle: Personal wesite
 
 email: bostwick.l.brian@gmail.com
